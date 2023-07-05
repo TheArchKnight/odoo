@@ -1,0 +1,3 @@
+[submodule "technical-training"]
+	path = technical-training
+	url = git@github.com:TheArchKnight/technical-training.git
